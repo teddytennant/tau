@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" font-family="Helvetica, Arial, sans-serif">
+  <rect width="800" height="500" fill="#ffffff"/>
+  <!-- top: no thanks -->
+  <rect x="0" y="0" width="300" height="250" fill="#f4b73f"/>
+  <circle cx="160" cy="125" r="62" fill="#c98b5a"/>
+  <path d="M112 78 Q160 40 208 78 Q200 62 160 58 Q120 62 112 78 Z" fill="#2b1d14"/>
+  <path d="M128 118 q12 6 24 0" stroke="#2b1d14" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M170 118 q12 6 24 0" stroke="#2b1d14" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M140 158 q22 -12 44 0" stroke="#2b1d14" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <rect x="120" y="190" width="80" height="60" rx="12" fill="#e8e8e8"/>
+  <rect x="30" y="92" width="58" height="72" rx="16" fill="#c98b5a" transform="rotate(-12 59 128)"/>
+  <rect x="34" y="60" width="12" height="40" rx="6" fill="#c98b5a" transform="rotate(-12 40 80)"/>
+  <rect x="50" y="54" width="12" height="44" rx="6" fill="#c98b5a" transform="rotate(-12 56 76)"/>
+  <rect x="66" y="56" width="12" height="42" rx="6" fill="#c98b5a" transform="rotate(-12 72 77)"/>
+  <rect x="80" y="64" width="11" height="36" rx="5" fill="#c98b5a" transform="rotate(-12 85 82)"/>
+  <text x="340" y="95" font-size="44" font-weight="bold" fill="#222">π</text>
+  <text x="390" y="95" font-size="30" fill="#222">read</text>
+  <text x="390" y="135" font-size="30" fill="#222">write</text>
+  <text x="390" y="175" font-size="30" fill="#222">edit</text>
+  <text x="390" y="215" font-size="30" fill="#222">bash</text>
+  <!-- bottom: yes -->
+  <rect x="0" y="250" width="300" height="250" fill="#f4b73f"/>
+  <circle cx="140" cy="375" r="62" fill="#c98b5a"/>
+  <path d="M92 328 Q140 290 188 328 Q180 312 140 308 Q100 312 92 328 Z" fill="#2b1d14"/>
+  <circle cx="120" cy="366" r="7" fill="#2b1d14"/>
+  <circle cx="162" cy="366" r="7" fill="#2b1d14"/>
+  <path d="M116 398 q26 20 52 0" stroke="#2b1d14" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <rect x="100" y="440" width="80" height="60" rx="12" fill="#e8e8e8"/>
+  <rect x="196" y="392" width="58" height="46" rx="16" fill="#c98b5a"/>
+  <rect x="236" y="400" width="54" height="13" rx="6" fill="#c98b5a"/>
+  <text x="340" y="370" font-size="44" font-weight="bold" fill="#222">τ</text>
+  <text x="390" y="370" font-size="30" fill="#222">bash</text>
+  <text x="390" y="410" font-size="18" fill="#777">(twice the pi, a quarter of the tools)</text>
+  <line x1="300" y1="250" x2="800" y2="250" stroke="#dddddd" stroke-width="2"/>
+</svg>
